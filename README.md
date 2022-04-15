@@ -14,7 +14,7 @@ Of course there can be different type of fruits, similarly there can be differen
 
 And there can be many type of pies, similarly there can be different container management and orchestration softwares like Kubernetes and other is Docker Swarm
 
-Let's recap --- If you like the video give it thumbs up and press the subscribe button
+Let's recap: --- If you like the video give it thumbs up and press the subscribe button
 
 Application contains different application modules
 
